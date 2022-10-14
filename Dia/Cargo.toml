@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "randomness-oracle",
+    "randomness-oracle-io"
+]
