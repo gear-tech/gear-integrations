@@ -16,4 +16,6 @@ KEYRING_MNEMONIC = "MNEMONIC SEED PHRASE"
 ```
 
 1. Open terminal and write: `yarn`.
-2. Then: `yarn start`.
+2. For starting in dev mode write: `yarn start:dev`.
+3. For production, use: `yarn build`.
+4. Then: `yarn start`.
